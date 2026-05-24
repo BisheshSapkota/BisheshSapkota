@@ -1,30 +1,38 @@
 # Hi, I'm Bishesh Sapkota 👋
+🚀 Aspiring Tech Founder & Cybersecurity Researcher | Grade 10 Student from Nepal
 
-### 🛡️ Aspiring Cybersecurity Professional | Freelance Pentester | Grade 10 Student
-
-I am a security enthusiast from Nepal with a focus on web application security and ethical hacking. I currently balance my academic studies for the SEE (Secondary Education Examination) with real-world freelance penetration testing.
-
----
-
-### 🚀 What I Do
-- **Vulnerability Assessment:** Identifying weaknesses in web applications and networks.
-- **Freelance Pentesting:** Helping clients secure their digital assets through ethical hacking.
-- **Scripting:** Developing custom Python tools for reconnaissance and automated security checks.
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, Bash, HTML/CSS (Learning C++)
-- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, SQLMap
-- **Operating Systems:** Kali Linux, Parrot Security OS
-
-### 📈 Current Goals
-- [ ] Achieve a 4.0 GPA in SEE (March 2027)
-- [ ] Earn a world-class +2 scholarship (UWC/YES Program)
-- [ ] Contribute to more Open Source security projects
+I am an application security researcher and builder specializing in web application vulnerability analysis and proxy-edge infrastructure defense. Currently, I am balancing rigorous preparation for my Secondary Education Examination (SEE) with high-impact, real-world penetration testing and independent software auditing.
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** https://www.linkedin.com/in/bisheshsapkota/
-- **Email:** bisheshsapkota82@gmail.com
+### 🛡️ Real-World Impact & Achievements
 
-*"Security is not a product, but a process."*
+* **Enterprise Security Disclosures**: Independently audited live corporate infrastructures in South Asia, including discovering and documenting critical logical vulnerabilities in major local web frameworks.
+* **Verified Bug Bounties**: Successfully identified and responsibly disclosed operational system flaws on active consumer platforms (such as **Bhojdeals**), earning verified security bounties.
+* **Engineering Portfolios**: Published fully mapped, industry-standard vulnerability assessments using the **OWASP Top 10** and **CVSS evaluation** metrics to help organizations mitigate edge-cache deception and data exposures.
+
+---
+
+### 🛠️ Tech Stack & Systems Engineering
+
+* **Core Languages**: Python (Custom reconnaissance automation & payload scripting), Bash, HTML/CSS
+* **Security & Network Auditing**: Burp Suite, Nmap, Wireshark, SQLmap, Linux Core Architecture
+* **Target Environments**: Next.js (React), Express.js API Gateways, Node.js, MongoDB Engine, Cloudflare WAF Routing
+
+---
+
+### 📈 Active Milestones (Target: Fall 2027 Admission)
+
+* 🎯 **Academic Excellence**: Securing a top-tier GPA in the upcoming March 2027 SEE Board Examinations to establish a baseline for international boarding entry.
+* 🏫 **Global Boarding Prep**: Engineering a highly competitive application portfolio for top-tier US prep schools (e.g., *The Lawrenceville School*, *Phillips Academy Andover*) focusing on full need-blind STEM tracks.
+* 💻 **Startup Incubation**: Designing concepts for an automated, lightweight security-as-a-service (SaaS) platform tailored for small-to-medium enterprises in developing tech ecosystems.
+
+---
+
+### 📫 Connect & Collaborate
+
+* 💼 **LinkedIn**: [linkedin.com/in/bisheshsapkota](https://www.linkedin.com/in/bisheshsapkota/)
+* 📧 **Professional Inquiries**: bisheshsapkota82@gmail.com
+* 📂 **Featured Project**: Check out my latest pinned repository: `(https://github.com/BisheshSapkota/modern-ecommerce-website-security-assessment)`
+
+> *"Security is not a product, but a process. True engineering lies in understanding how components interact when pushed to their logical limits."*
